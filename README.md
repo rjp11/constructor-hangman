@@ -11,7 +11,7 @@ This is a command line hangman game comprised of "bizarre" English words such as
 
 To run the game, call the directory the repository is cloned to in your terminal.
 
-Input <node index.js>
+Input "node index.js" to play.
 
 Enter a letter when prompted to guess!
 
